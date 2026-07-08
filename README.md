@@ -86,19 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" alt="Cloudadhar GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cloudadhar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudadhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=cloudadhar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>Free cloud learning. Simple notes. Practical roadmaps. Built for learners.</i>
 </p>
